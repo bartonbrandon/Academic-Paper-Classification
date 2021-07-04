@@ -1,2 +1,2 @@
 # paperCitationPrediction
-A machine learning project done in CSCI 470 Introduction to Machine Learning, Spring 2021.
+A machine learning project done at Colorado School of Mines Introduction to Machine Learning (CSCI 470), Spring 2021.
