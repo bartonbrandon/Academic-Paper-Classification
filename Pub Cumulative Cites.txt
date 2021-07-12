@@ -1,0 +1,457 @@
+Publishers,Citation Count
+10th International Conference on X-ray Microscopy,16
+2011 Physics Education Research Conference,11
+2012 Physics Education Research Conference,5
+2D Materials,35
+2nd International Conference on Emerging Technologies: Micro to Nano 2015 (ETMN-2015): Contributory papers presented in 2nd International Conference on Emerging Technologies: Micro to Nano 2015,9
+2nd International Symposium on Aqua Science, Water ReSource and Low Carbon Energy,15
+42nd COSPAR Scientific Assembly,0
+A Guide to Monte Carlo Simulations in Statistical Physics,84
+ACS Earth and Space Chemistry,5
+AGU Fall Meeting Abstracts,0
+AIP Advances,68
+APL Materials,14
+APL Photonics,39
+APS March Meeting Abstracts,0
+Acoustical Physics,11
+Acoustical Society of America Journal,52
+Acta Astronautica,166
+Acta Mechanica Sinica,33
+Acta Oecologica,4
+Advances in Natural Sciences: Nanoscience and Nanotechnology,12
+Advances in Physics,568
+Advances in Space Research,137
+Advances in Water Resources,151
+Advancing Astrophysics with the Square Kilometre Array (AASKA14),13
+Aeolian Research,72
+American Astronomical Society Meeting Abstracts #229,0
+American Astronomical Society Meeting Abstracts #233,1
+American Geophysical Union,0
+American Journal of Physics,257
+An Introduction to Astrobiology,4
+An Introduction to Quantum Monte Carlo Methods,13
+Analytical Chemistry,49
+Annalen der Physik,33
+Annals of Physics,30
+Annals of the New York Academy of Sciences,18
+Annual Review of Analytical Chemistry,148
+Annual Review of Condensed Matter Physics,1954
+Annual Review of Earth and Planetary Sciences,360
+Annual Review of Fluid Mechanics,911
+Annual Review of Marine Science,1483
+Annual Review of Materials Science,586
+Annual Review of Physical Chemistry,1198
+Application of Mathematics in Technical and Natural Sciences: 9th International Conference for Promoting the Application of Mathematics in Technical and Natural Sciences - AMiTaNS'17,8
+Applied Mathematics and Computer Science,3
+Applied Nanoscience,141
+Applied Optics,14
+Applied Physics A: Materials Science & Processing,375
+Applied Physics B: Lasers and Optics,44
+Applied Physics Express,12
+Applied Physics Letters,3093
+Applied Physics Reviews,292
+Applied Surface Science,196
+Applied Water Science,63
+Archive for Rational Mechanics and Analysis,16
+Asteroids IV,44
+Astrobiology,2173
+Astrobiology, History, and Society,4
+Astronomical School's Report,3
+Astronomy and Astrophysics,2360
+Astronomy and Astrophysics Review,41
+Astronomy and Geophysics,16
+Astronomy and Relativistic Astrophysics.  New Phenomena and New States of Matter in the Universe,1
+Astroparticle Physics,20
+Astrophysics and Space Science,15
+Atmospheric Chemistry & Physics,3131
+Atmospheric Environment,296
+Atmospheric Measurement Techniques,288
+Atmospheric Research,243
+Biofabrication,232
+Biogeosciences,4480
+Bioinspiration and Biomimetics,293
+Biomedical Materials,55
+Biophysical Journal,1167
+Biosensing and Nanomedicine VII,0
+Boundary-Layer Meteorology,30
+Brazilian Journal of Physics,23
+Bulletin of the American Astronomical Society,0
+Bulletin of the American Meteorological Society,40
+Challenges,15
+Chaos,766
+Chaos Solitons and Fractals,228
+Chemical Physics,17
+Chemical Physics Letters,242
+Chinese Physics B,67
+Classical and Quantum Gravity,8
+Climate Dynamics,23
+Climate of the Past,94
+Communications Physics,34
+Communications in Nonlinear Science and Numerical Simulations,610
+Communications in Theoretical Physics,0
+Communications of the Byurakan Astrophysical Observatory,0
+Complex Networks,315
+Complexity,35
+Comptes Rendus Geoscience,39
+Comptes Rendus Mecanique,25
+Computer Methods in Applied Mechanics and Engineering,22
+Computer Physics Communications,1638
+Connection Science,2
+Contemporary Physics,513
+Contextuality From Quantum Physics to Psychology,0
+Continental Shelf Research,387
+Coral Reefs,206
+Coverage Control in Sensor Networks:,126
+Cultural Studies of Science Education,46
+Current Applied Physics,100
+Deep Sea Research Part I: Oceanographic Research,267
+Deep Sea Research Part II: Topical Studies in Oceanography,962
+Dynamical Processes on Complex Networks,20
+Dynamics of Atmospheres and Oceans,17
+EAS Publications Series,8
+EGU General Assembly Conference Abstracts,0
+EOS Transactions,154
+EPL (Europhysics Letters),2280
+Earth Moon and Planets,63
+Earth Science Reviews,1393
+Earth System Dynamics,90
+Earth System Science Data,204
+Earth and Planetary Science Letters,1887
+Earth's Future,19
+Earth, Planets, and Space,6
+Electroactive Polymer Actuators and Devices (EAPAD) 2015,1
+Enceladus and the Icy Moons of Saturn,3
+Entropy,174
+Environmental Management,59
+Environmental Research Letters,295
+Estuarine Coastal and Shelf Science,797
+European Journal of Physics,19
+European Physical Journal B,592
+European Physical Journal D,190
+European Physical Journal H,25
+European Physical Journal Plus,67
+European Physical Journal Special Topics,588
+European Physical Journal Web of Conferences,8
+European Planetary Science Congress,0
+Evolutionary Dynamics; The mathematics of genes and traits,8
+Experimental Astronomy,57
+Extremophiles,48
+Faraday Discussions,33
+Foundations of Physics,18
+Frontiers in Chemistry,60
+Frontiers in Earth Science,25
+Frontiers in Physics,130
+Frontiers of Physics,24
+Fundamentals of Sum-Frequency Spectroscopy,39
+Geochemistry, Geophysics, Geosystems,385
+Geochimica et Cosmochimica Acta,2253
+Geology of Ore Deposits,10
+Geomorphology,265
+Geophysical Research Letters,5278
+Geoscientific Model Development,994
+Global Biogeochemical Cycles,3945
+Global and Planetary Change,163
+Handbook of Exoplanets,34
+Helgoland Marine Research,20
+High Pressure Research,23
+Hydrology and Earth System Sciences,83
+Hyperfine Interactions,3
+IEEE Electron Device Letters,19
+IEEE Journal of Selected Topics in Signal Processing,81
+IEEE Sensors Journal,11
+IEEE Signal Processing Magazine,21
+IEEE Transactions on Electron Devices,13
+IEEE Transactions on Image Processing,10
+IEEE Transactions on Signal Processing,258
+ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences,6
+ISPRS Journal of Photogrammetry and Remote Sensing,64
+Icarus,534
+Imaging, Manipulation, and Analysis of Biomolecules, Cells, and Tissues IX,10
+International Conference of Numerical Analysis and Applied Mathematics 2015 (ICNAAM 2015),10
+International Journal of Applied Earth Observation and Geoinformation,13
+International Journal of Astrobiology,299
+International Journal of Bifurcation and Chaos,115
+International Journal of Biometeorology,14
+International Journal of Modern Physics A,18
+International Journal of Modern Physics B,8
+International Journal of Modern Physics C,1
+International Journal of Non Linear Mechanics,13
+International Journal of Optomechatronics,11
+International Journal of Science Education,296
+International Journal of Theoretical Physics,3
+International Nano Letters,150
+International Workshop on X-Ray and Neutron Phase Imaging with Gratings,1
+Inverse Modeling; An introduction to the theory and methods of inverse problems and data assimilation,21
+Japanese Journal of Applied Physics,9
+Journal of Advances in Modeling Earth Systems,23
+Journal of Applied Physics,1061
+Journal of Asian Earth Sciences,56
+Journal of Atmospheric and Solar-Terrestrial Physics,21
+Journal of Biomedical Optics,1480
+Journal of Breath Research,48
+Journal of Chemical Physics,4328
+Journal of Climate,8
+Journal of Colloid and Interface Science,26
+Journal of Computational Physics,348
+Journal of Computer-Aided Molecular Design,64
+Journal of Contaminant Hydrology,11
+Journal of Cosmology,5
+Journal of Cosmology and Astroparticle Physics,22
+Journal of Crystal Growth,7
+Journal of Engineering Mathematics,48
+Journal of Fluid Mechanics,776
+Journal of Fluids and Structures,48
+Journal of Geology,19
+Journal of Geophysical Research (Atmospheres),1376
+Journal of Geophysical Research (Biogeosciences),800
+Journal of Geophysical Research (Earth Surface),128
+Journal of Geophysical Research (Oceans),4530
+Journal of Geophysical Research (Planets),943
+Journal of Geophysical Research (Space Physics),5
+Journal of High Energy Physics,29
+Journal of Hydrology,159
+Journal of Infrared,59
+Journal of Instrumentation,0
+Journal of Korean Astronomical Society,17
+Journal of Korean Physical Society,0
+Journal of Lightwave Technology,57
+Journal of Magnetic Resonance,211
+Journal of Magnetism and Magnetic Materials,198
+Journal of Marine Systems,306
+Journal of Materials Research,44
+Journal of Mathematical Physics,133
+Journal of Mechanics Physics of Solids,617
+Journal of Micromechanics and Microengineering,17
+Journal of Modern Optics,70
+Journal of Molecular Evolution,17
+Journal of Molecular Structure,327
+Journal of Nanoparticle Research,400
+Journal of Nanophotonics,15
+Journal of Neural Engineering,160
+Journal of Non Crystalline Solids,28
+Journal of Non Equilibrium Thermodynamics,12
+Journal of NonLinear Science,64
+Journal of Nuclear Materials,65
+Journal of Optics,263
+Journal of Physical Chemistry A,21
+Journal of Physics A Mathematical General,718
+Journal of Physics B Atomic Molecular Physics,371
+Journal of Physics Communications,26
+Journal of Physics Condensed Matter,810
+Journal of Physics Conference Series,175
+Journal of Physics D Applied Physics,1956
+Journal of Power Sources,109
+Journal of Quantitative Spectroscopy and Radiative Transfer,163
+Journal of Science Education and Technology,39
+Journal of Science Teacher Education,54
+Journal of Sea Research,29
+Journal of Sensors and Sensor Systems,10
+Journal of Statistical Mechanics: Theory and Experiment,627
+Journal of Statistical Physics,891
+Journal of The American Society for Mass Spectrometry,174
+Journal of the British Interplanetary Society,37
+Journal of the Optical Society of America A,38
+Journal of the Optical Society of America B Optical Physics,20
+Journal of the Physical Society of Japan,17
+Laser & Photonics Review,39
+Laser Physics Letters,196
+Laser Precision Microfabrication,31
+Life,14
+Life Sciences and Space Research,97
+Light: Science & Applications,248
+Lithos,56
+Lunar and Planetary Science Conference,0
+Macromolecules,92
+Magnetic Fields throughout Stellar Evolution,0
+Masters Thesis,0
+Materials Research Express,1
+Materials Science and Engineering Conference Series,0
+Mathematical Methods in the Applied Sciences,4
+Measurement Science and Technology,47
+Mechanical Systems and Signal Processing,49
+Medical Physics,37
+Meteoritics and Planetary Science,18
+Methods and Applications in Fluorescence,51
+Microbiology and Molecular Biology Reviews,126
+Microgravity Science and Technology,28
+Microsystems & Nanoengineering,16
+Mineralogy and Petrology,12
+Modern Physics Letters B,42
+Modern Techniques for Nano- and Microreactors/-reactions,8
+Molecular Physics,20
+Monthly Notices of the Royal Astronomical Society,866
+Multiphoton Microscopy in the Biomedical Sciences X,6
+Multiphoton Microscopy in the Biomedical Sciences XIX,0
+Nano Convergence,13
+Nano Letters,588
+Nano-Micro Letters,75
+Nanopharmaceutics: The Potential Application of Nanomaterials. Edited by Liang Xing-Jie. Published by World Scientific Publishing Co. Pte. Ltd,0
+Nanophotonics,117
+Nanoscale,2780
+Nanoscale Imaging, Sensing, and Actuation for Biomedical Applications XII,9
+Nanoscale Research Letters,293
+Nanotechnology,1158
+Natural Hazards and Earth System Sciences,45
+Nature,38181
+Nature Astronomy,43
+Nature Chemistry,2522
+Nature Climate Change,1514
+Nature Communications,13811
+Nature Geoscience,3972
+Nature Materials,4720
+Nature Nanotechnology,6639
+Nature Photonics,8560
+Nature Physics,5247
+Nature Reviews Materials,560
+Nature Reviews Physics,67
+Nature Scientific Data,7
+Networks in Cell Biology,6
+New Journal of Physics,3499
+Nonequilibrium Statistical Physics Today,15
+Nonlinear Processes in Geophysics,27
+Nonlinearity,18
+Nuclear Instruments and Methods in Physics Research A,127
+Nuclear Instruments and Methods in Physics Research B,77
+Nuclear Physics B,16
+Numerical Analysis and Applied Mathematics ICNAAM 2011: International Conference on Numerical Analysis and Applied Mathematics,76
+Nuovo Cimento C Geophysics Space Physics C,0
+Ocean Dynamics,51
+Ocean Modelling,85
+Ocean Science,214
+Ocean Science Journal,20
+Optica,400
+Optical Engineering,179
+Optical Fiber Technology,71
+Optical Materials,17
+Optical Methods for Inspection, Characterization, and Imaging of Biomaterials II,8
+Optical Review,26
+Optical Sensing and Detection III,2
+Optical Tweezers,58
+Optics Communications,133
+Optics Express,593
+Optics Laser Technology,52
+Optics Letters,325
+Optics and Lasers in Engineering,50
+Optics and Spectroscopy,67
+Opto-Electronics Review,162
+Origins of Life and Evolution of the Biosphere,106
+PLoS Computational Biology,2966
+PLoS ONE,3269
+Paleoceanography,990
+Pathways Towards Habitable Planets,1
+Ph.D. Thesis,145
+Philosophical Magazine,33
+Philosophical Transactions of the Royal Society of London Series A,619
+Photonic Sensors,46
+Physica A Statistical Mechanics and its Applications,667
+Physica D Nonlinear Phenomena,221
+Physica E Low-Dimensional Systems and Nanostructures,67
+Physica Scripta,20
+Physica Scripta Volume T,34
+Physical Biology,559
+Physical Chemistry Chemical Physics (Incorporating Faraday Transactions),562
+Physical Review A,859
+Physical Review Accelerators and Beams,12
+Physical Review Applied,224
+Physical Review B,1360
+Physical Review C,53
+Physical Review E,14153
+Physical Review Fluids,83
+Physical Review Letters,20655
+Physical Review Materials,15
+Physical Review Physics Education Research,50
+Physical Review Research,2
+Physical Review X,1873
+Physics Letters A,217
+Physics Reports,8587
+Physics Uspekhi,29
+Physics in Medicine and Biology,2424
+Physics of Fluids,648
+Physics of Life Reviews,494
+Physics of Plasmas,313
+Physics of the Earth and Planetary Interiors,19
+Physiological Measurement,18
+Planetary and Space Science,280
+Plasma Medicine,30
+Plasma Physics Reports,33
+Plasma Physics and Controlled Fusion,171
+Plasma Sources Science Technology,215
+Polar Science,106
+Principles of Planetary Climate,214
+Proceedings of the National Academy of Science,26567
+Proceedings of the Royal Society of London Series A,99
+Progress In Surface Science,166
+Progress in Aerospace Sciences,71
+Progress in Oceanography,1274
+Progress in Quantum Electronics,171
+Publications of the Astronomical Society of Japan,20
+Quantum Effects in Biology,49
+Quantum Electronics,65
+Quantum Information Processing,22
+Quaternary Science Reviews,660
+Radiation Physics and Chemistry,33
+Radiophysics and Quantum Electronics,1
+Reaching New Heights in Astronomy 2017,0
+Reports on Progress in Physics,5150
+Research in Science Education,211
+Research in Science and Technological Education,6
+Review of Scientific Instruments,593
+Reviews of Accelerator Science and Technology,6
+Reviews of Geophysics,1316
+Reviews of Modern Physics,7468
+Revista Mexicana de Astronomia y Astrofisica Conference Series,1
+Royal Society Open Science,143
+Russian Chemical Reviews,13
+SIAM Journal on Applied Dynamical Systems,19
+SOIL,28
+Science,28202
+Science & Education,161
+Science Advances,624
+Science China Physics, Mechanics, and Astronomy,26
+Science and Technology of Advanced Materials,195
+Science of the Total Environment,10
+Scientific Data,32
+Scientific Drilling,41
+Scientific Reports,9737
+Search for Fundamental Theory: The VII International Symposium Honoring French Mathematical Physicist Jean-Pierre Vigier,1
+Sedimentary Geology,8
+Semiconductor Science Technology,69
+Serbian Astronomical Journal,0
+Shock Waves,4
+Smart Material Structures,158
+Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series,0
+Soft Matter,2296
+SoftwareX,38
+Solar System Research,38
+Space Science Reviews,225
+Space Weather,44
+Spectrochimica Acta,83
+Spectrochimica Acta Part A: Molecular Spectroscopy,468
+Studies in the History and Philosophy of Modern Physics,9
+Superlattices and Microstructures,15
+Surface Science Reports,82
+Surveys in Geophysics,38
+Sustainability,11
+Tectonophysics,22
+Tellus Series B Chemical and Physical Meteorology B,404
+The Astrobiological Landscape,9
+The Astronomical Journal,501
+The Astrophysical Journal,8447
+The Astrophysical Journal Supplement Series,114
+The Cryosphere,154
+The Great Silence: Science and Philosophy of Fermi's Paradox,15
+The Physical Microbe; An introduction to noise,3
+The Physics of Foraging,47
+Titan from Cassini-Huygens,3
+Water Resources Research,557
+Water in Biological and Chemical Processes,43
+X-Ray Free-Electron Lasers: Beam Diagnostics, Beamline Instrumentation, and Applications,24
+XVII Special Courses at the National Observatory of Rio de Janeiro (CCE),12
+XVIIIth International Conference on the Origin of Life,0
+Zeitschrift Angewandte Mathematik und Physik,5
+Zenodo,16
+arXiv e-prints,8831
+iScience,2
+npj Computational Mathematics,44
+npj Quantum Information,56
+npj Quantum Materials,8
